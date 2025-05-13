@@ -3,9 +3,9 @@
 Statistics for estimating the number of matrices (mats) needed for a
 Hangul Linotype machine as described in Section 3.6.4.2 of
 
-Brian Roark, Richard Sproat and Suyoun Yoon. 2025. Tools of the
+Brian Roark, Richard Sproat and Suyoun Yoon. 2025. _Tools of the
 Scribe: How writing systems, technology, and human factors interact to
-affect the act of writing. Springer Nature.
+affect the act of writing_. Cham: Springer Nature.
 
 # Installation
 
