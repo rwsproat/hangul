@@ -41,7 +41,7 @@ reduction in the number of needed elements. The righthand column shows
 how one can construct a new syllable out of the top element of 한 and
 the bottom element of 글.
 
-![Horizontal and vertical cuts of Hangul syllable blocks](https://github.com/rwsproat/hangul/hangul_cuts.png)
+![Horizontal and vertical cuts of Hangul syllable blocks](https://github.com/rwsproat/hangul/blob/main/hangul_cuts.png)
 
 The `--use_old_spelling` flag toggles whether or not to use the
 spellings for emphatic consonants (such as "ᄲ" in place of modern
