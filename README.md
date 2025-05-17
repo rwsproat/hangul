@@ -1,4 +1,4 @@
-# How many mats are needed for a Hangul Linotype machine?
+# How many mats are needed for a Hangul Linotype/Intertype machine?
 
 Statistics for estimating the number of matrices (mats) needed for a
 Hangul Linotype machine as described in Section 3.6.4.2 of
@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 
 # Running
 
-`python3 fill_matrix --cut=[horizontal, vertical] (--use_old_spelling)`
+`python3 estimate_mats.py --cut=[horizontal, vertical] (--use_old_spelling)`
 
 This will print out a list of needed "cuts" to the Hangul syllable
 composite in descending expected probability order, followed by the
